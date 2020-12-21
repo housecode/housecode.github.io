@@ -1,1 +1,1 @@
-## Welcome to [Housecode](https://housecode.github.io)
+## Welcome to [Housecode](/)
